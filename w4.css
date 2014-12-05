@@ -1,10 +1,27 @@
 @charset "UTF-8";
 /* Sample CSS Document */
 
-#eagleLogo {
+#eagleLogo { float: right;
 
 }
 
-h1 {
+h1 { 
+	color: red;
+}
 
+.eslrTitle {
+	font-weight: bold; font-family: Arial; color: Maroon;
+}
+p {
+color: Blue; font-family: helvetica;
+}
+li {
+color: #006633;
+}
+#eagleBottom {
+text-align: center;
+width: 500px;
+height: 500px;
+margin-right: 30%;
+margin-left: 30%;
 }
