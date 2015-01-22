@@ -2,9 +2,26 @@
 /* Sample CSS Document */
 
 #eagleLogo {
+  float: right;
 
 }
 
-h1 { color: cornflowerblue;
+h1 { color: darkolivegreen;
 
+}
+
+h2 { color: maroon;}
+a:link {
+  color: sienna;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: saddlebrown ;
+  background-color: bisque ;
+}
+
+.eslrTitle {
+  font-weight: bold;
 }
